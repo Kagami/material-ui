@@ -104,6 +104,7 @@ class Tab extends Component {
       style,
       value, // eslint-disable-line no-unused-vars
       width, // eslint-disable-line no-unused-vars
+      tabKey,
       ...other
     } = this.props;
 
